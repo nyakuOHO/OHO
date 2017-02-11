@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\sakur\Desktop\OHO\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="C:\Users\sakur\Desktop\OHO\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.1_ef4edca6bcbcc19de1d3541347cff9f6bb3bb9c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sakur\Desktop\OHO\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="C:\Users\sakur\Desktop\OHO\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.1_a3ae1cbb34eda4b82b7006611bbf97b5f0f474eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sakur\Desktop\OHO\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ecfd437d69db7ad63645a073f73a230dbd1a4ee">
+        <dex dex="C:\Users\sakur\Desktop\OHO\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_19fa8e8aaf4a6cc4a3e27cdff93cad1a3e5f5508.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sakur\Desktop\OHO\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="C:\Users\sakur\Desktop\OHO\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.1_2e920f4d31f94c3c8cc5cf15875b10e596c11c45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sakur\Desktop\OHO\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="C:\Users\sakur\Desktop\OHO\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.1_3de7b52d8e8d4fc65b8db5c7bde19df9fcac0e89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sakur\Desktop\OHO\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="C:\Users\sakur\Desktop\OHO\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.1_4aecb0d88aa8d6e9dd5ffa5d9d6719f8f21154d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sakur\Desktop\OHO\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="C:\Users\sakur\Desktop\OHO\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.1_3bcfbaa12b3bd2a1aefe3aa37e5ae26ca9ee5a9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sakur\Desktop\OHO\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="C:\Users\sakur\Desktop\OHO\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.1_e4dfdfd545080257d95598835f7fdbaeece70e6a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sakur\Desktop\OHO\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="C:\Users\sakur\Desktop\OHO\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.1_6e83a9c5a67217363c89f4f4bce4680befa8bd1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sakur\Desktop\OHO\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="543b2f16d47d46553eba2a0cdf3aad4ea72df436">
+        <dex dex="C:\Users\sakur\Desktop\OHO\app\build\intermediates\pre-dexed\debug\instant-run_295f0f6c3fea5188abde827baff0db45710b987a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sakur\Desktop\OHO\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="C:\Users\sakur\Desktop\OHO\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.1_0a0f4fe6b723187a6e0de9cf3ae9f9745e570ca3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sakur\Desktop\OHO\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="C:\Users\sakur\Desktop\OHO\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.1_8d8ceee54510de87db0782fcba17aec10fd3f800.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sakur\Desktop\OHO\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="C:\Users\sakur\Desktop\OHO\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.1_6b4817dede0e30d55162531828f32bb1c5085b49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sakur\Desktop\OHO\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\sakur\Desktop\OHO\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.1_a8b53c5a15634b61a1720d503c02ba1eacc654c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\sakur\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="C:\Users\sakur\Desktop\OHO\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.1_10f556b4d104ea1c48c7ff953a922c0c93b34ae9.jar" />
+    </item>
+
+</items>
